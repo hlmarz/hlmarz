@@ -2,10 +2,10 @@
 
 # Hello there! I'm Halmar Zahran
 
-**Computer Science Student · Web Development · Universitas Langlangbuana**
+**Computer Science Student · Web Development · Community Management · Universitas Langlangbuana**
 
 I enjoy exploring how an idea can become a web app that feels good to use.  
-Right now, I’m learning and building with PHP, JavaScript, and React.
+Right now, I’m learning and building with PHP, Laravel, JavaScript, and React.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halmar-zahran-rasikh-iskandar-516bb7319/)
 [![Instagram](https://img.shields.io/badge/Instagram-@hlmarz_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hlmarz_)
@@ -19,13 +19,15 @@ Right now, I’m learning and building with PHP, JavaScript, and React.
 
 I’m a Computer Science student in the Faculty of Engineering at Universitas Langlangbuana. In 2024, I worked as a laboratory assistant, teaching **UI/UX**, **Programming Algorithms**, and **Project-Oriented Programming**. I also supported lab sessions and helped students work through technical issues. The experience taught me to explain technical topics patiently and that learning is often better together.
 
-Outside class, I’m interested in web development and software engineering. I’m always exploring new technologies, improving how I write code, and trying to build useful projects.
+Beyond coding, I also have hands-on experience in **Community Management**—building welcoming spaces, organizing member engagement, and keeping online communities active and well-structured. Outside class, I’m focused on web development and software engineering, always exploring new technologies, improving how I write code, and building useful projects.
 
 ### Tools I work with
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-007ACC.svg?style=flat-square&logo=vsc&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ### GitHub at a glance
