@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halmar Zahran
+# Hello there! I'm Halmar Zahran
 
 **Computer Science Student · Web Development · Universitas Langlangbuana**
 
